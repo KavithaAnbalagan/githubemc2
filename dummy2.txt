@@ -1,3 +1,4 @@
 modified dummy file
 newly modified
 learning git commands
+errors
