@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 dummy file
+=======
+modified dummy file
+newly modified
+learning git commands
+errors
+>>>>>>> 58acadcb37933a66fec3b86801fab333d91f23df
